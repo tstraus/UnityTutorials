@@ -167,7 +167,7 @@ MonoBehaviour:
   hours: {fileID: 475891311}
   minutes: {fileID: 1774927434}
   seconds: {fileID: 103756216}
-  analog: 0
+  analog: 1
 --- !u!4 &181895911
 Transform:
   m_ObjectHideFlags: 0
